@@ -1,0 +1,35 @@
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.exe
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.deps.json
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.runtimeconfig.json
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.dll
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.pdb
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports_File_Condense.Form1.resources
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.GenerateResource.cache
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.AssemblyInfoInputs.cache
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.AssemblyInfo.vb
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.dll
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\refint\OUReports File Condense.dll
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.pdb
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.genruntimeconfig.cache
+C:\Users\Justin\Documents\School\Fall 2023\CSE486 - Capstone II\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\ref\OUReports File Condense.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.exe
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.deps.json
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.runtimeconfig.json
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\OUReports File Condense.pdb
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports_File_Condense.Form1.resources
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.GenerateResource.cache
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.AssemblyInfoInputs.cache
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.AssemblyInfo.vb
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.CoreCompileInputs.cache
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\refint\OUReports File Condense.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.pdb
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.genruntimeconfig.cache
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\ref\OUReports File Condense.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.AssemblyReference.cache
+E:\Downloads\Compressed\OUReports File Condense\OUReports File Condense\obj\Debug\net6.0-windows\OUReports File Condense.vbproj.CopyComplete
