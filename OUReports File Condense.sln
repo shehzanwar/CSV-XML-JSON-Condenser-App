@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OUReports File Condense", "OUReports File Condense\OUReports File Condense.vbproj", "{A093024C-CBC7-4716-A127-BD4425B248D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A093024C-CBC7-4716-A127-BD4425B248D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A093024C-CBC7-4716-A127-BD4425B248D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A093024C-CBC7-4716-A127-BD4425B248D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A093024C-CBC7-4716-A127-BD4425B248D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9CA932-1C2D-43C1-A6B6-ECF01F2255A1}
+	EndGlobalSection
+EndGlobal
